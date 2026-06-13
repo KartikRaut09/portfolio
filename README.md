@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kartik Raut — AI/ML Engineer Portfolio
 
-## Getting Started
+A premium, terminal-themed portfolio designed for an AI/ML Engineer specializing in Large Language Models, RAG, and Agentic Systems. Built with Next.js, React, Tailwind CSS, and Framer Motion.
 
-First, run the development server:
+## 🚀 Features
+- **Terminal IDE Aesthetic**: A modern, hacker-style interface showcasing an underlying focus on AI, infrastructure, and backend systems.
+- **Dynamic Content Management**: Data (projects, skills, experience, achievements) is managed seamlessly via structured JSON and MDX in the `/content` directory, preventing hardcoding.
+- **Git-Timeline Experience**: Custom scroll timeline visualizing professional experience as git branches and commits.
+- **Responsive Architecture**: Fully optimized for mobile with a custom bottom navigation bar and desktop sidebar.
+- **Dark Mode Native**: Implemented with precise `#111` backgrounds, `#f97316` (orange) primary accents, glassmorphism, and glowing hover states.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 💻 Tech Stack
+- Next.js (App Router)
+- React
+- Tailwind CSS
+- Framer Motion
+- Lucide React & React Icons
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Local Development
+To run this project locally:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KartikRaut09/portfolio.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Visit `http://localhost:3000` to view the site.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Contact
+- [LinkedIn](https://www.linkedin.com/in/kartik-raut-155186203)
+- [GitHub](https://github.com/KartikRaut09)
+- [Email](mailto:kartikrautsr12@gmail.com)
