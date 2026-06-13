@@ -1,7 +1,6 @@
 import { ImageResponse } from "next/og";
 import { getProfileData } from "@/lib/content";
 
-export const runtime = "edge";
 export const alt = "Kartik Raut - AI/ML Engineer Portfolio";
 export const size = {
   width: 1200,
