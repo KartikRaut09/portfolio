@@ -1,5 +1,7 @@
 # Kartik Raut — AI/ML Engineer Portfolio
 
+**🌐 Live Demo:** [https://portfolio-o52j.vercel.app/](https://portfolio-o52j.vercel.app/)
+
 A premium, terminal-themed portfolio designed for an AI/ML Engineer specializing in Large Language Models, RAG, and Agentic Systems. Built with Next.js, React, Tailwind CSS, and Framer Motion.
 
 ## 🚀 Features
