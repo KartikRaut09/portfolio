@@ -1,0 +1,21 @@
+{
+  "name": "Kartik Raut",
+  "email": "kartikrautsr12@gmail.com",
+  "phone": "+91 8767294368",
+  "location": "Nagpur, MH",
+  "github": "https://github.com/KartikRaut09",
+  "linkedin": "https://www.linkedin.com/in/kartik-raut-155186203",
+  "headline": "AI/ML Engineer · LLM & GenAI Specialist · RAG & Agentic Systems",
+  "subtitle": "AI/ML Engineer with production-grade experience building LLM systems, RAG pipelines, agentic AI workflows, and RL-based autonomous agents. Shipped a real-time voice AI product achieving 1–2s latency and ~40% inference cost reduction; published a GRPO RL multi-agent system on HuggingFace Spaces.",
+  "about": [
+    "Proficient in the full MLOps lifecycle: data ingestion → model training → vector indexing → FastAPI/Docker deployment.",
+    "Hackathon Finalist — Meta × Scaler PyTorch (31,000+ registrants) and Claude Solve-A-Thon IIIT Nagpur (Top 50/650+)."
+  ],
+  "education": {
+    "university": "GH Raisoni University, Amravati",
+    "degree": "Bachelor of Technology in Artificial Intelligence",
+    "duration": "Aug 2022 – May 2026",
+    "cgpa": "7.5 / 10.0",
+    "coursework": ["Machine Learning", "Deep Learning", "NLP", "Statistics & Probability", "Data Structures & Algorithms", "DBMS", "Computer Networks"]
+  }
+}

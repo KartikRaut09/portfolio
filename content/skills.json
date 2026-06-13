@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Languages & Databases",
+    "items": ["Python", "SQL", "JavaScript", "React", "ChromaDB", "FAISS", "PostgreSQL", "AWS"]
+  },
+  {
+    "category": "Frameworks",
+    "items": ["PyTorch", "TensorFlow", "scikit-learn", "LangChain", "LangGraph", "HuggingFace Transformers", "XGBoost", "LightGBM", "Pandas", "NumPy"]
+  },
+  {
+    "category": "Dev Tools",
+    "items": ["FastAPI", "Flask", "Docker", "Git/GitHub", "REST APIs", "Streamlit", "Plotly", "Matplotlib", "Seaborn"]
+  },
+  {
+    "category": "AI Specializations",
+    "items": ["RAG", "Prompt Engineering", "Agentic Pipelines", "Finetuning (TRL/LoRA)", "Embedding Generation", "Groq API", "Whisper STT/TTS", "Context Window Management", "GRPO RL", "Q-learning", "U-Net", "LSTM"]
+  },
+  {
+    "category": "MLOps & LLMOps",
+    "items": ["Vector DB Design", "Inference Optimization", "CI/CD for ML", "LLMOps", "Intent Routing", "Docker Deployment"]
+  }
+]

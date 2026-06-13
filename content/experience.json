@@ -1,0 +1,16 @@
+[
+  {
+    "id": "exp-1",
+    "role": "AI/ML Engineer Intern",
+    "company": "AbCoEd Tech Pvt. Ltd.",
+    "location": "Nagpur",
+    "startDate": "Dec 2025",
+    "endDate": "May 2026",
+    "highlights": [
+      "**InfinoAI Voice AI (Agentic Product):** Engineered a production real-time voice assistant integrating Groq LLaMA 3.3 70B, Whisper STT/TTS, and an agentic intent-routing pipeline; achieved 1–2s end-to-end latency with consistent multi-turn accuracy.",
+      "**~40% Inference Cost Reduction (LLMOps):** Architected a 7-category intent routing system that eliminated unnecessary LLM calls, reducing inference costs by ~40% and improving response latency.",
+      "**Production Deployment (Docker + Flask + React):** Implemented full voice pipeline and deployed via Dockerized Flask backend with React dashboard.",
+      "**Prompt Engineering & Context Management:** Designed structured prompt templates and context window strategies enabling reliable output format consistency and reduced hallucinations."
+    ]
+  }
+]

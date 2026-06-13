@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Finalist — Meta × Scaler PyTorch OpenEnv Hackathon",
+    "organization": "Meta & Scaler",
+    "location": "Bangalore",
+    "description": "Top teams from 31,000+ registrations; 48-hour on-site AI hackathon — validated rapid prototyping and production ML deployment under pressure."
+  },
+  {
+    "title": "Finalist — Claude Solve-A-Thon",
+    "organization": "IIIT Nagpur",
+    "location": "Nagpur",
+    "description": "Top 50 out of 650+ participants in 18-hour on-site AI hackathon — demonstrated LLM engineering, problem decomposition, and delivery speed."
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "organization": "Coursera (Andrew Ng)",
+    "location": "Online",
+    "description": "Comprehensive certification in machine learning algorithms, deep learning, and best practices."
+  },
+  {
+    "title": "Python Essentials",
+    "organization": "Scaler",
+    "location": "Online",
+    "description": "Certification validating proficiency in Python programming and core concepts."
+  }
+]
